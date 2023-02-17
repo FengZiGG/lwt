@@ -4919,7 +4919,7 @@ function framesetheader($title): void
     <link rel="stylesheet" type="text/css" href="<?php print_file_path('css/styles.css');?>" />
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
     <!-- 
-        <?php echo file_get_contents("UNLICENSE.md");?> 
+        <?php echo file_get_contents("LICENSE.md");?> 
     -->
     <title>LWT :: <?php echo tohtml($title); ?></title>
 </head>
@@ -4976,7 +4976,7 @@ function pagestart_nobody($title, $addcss=''): void
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <!-- 
-        <?php echo file_get_contents("UNLICENSE.md");?> 
+        <?php echo file_get_contents("LICENSE.md");?> 
     -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>

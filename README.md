@@ -156,6 +156,6 @@ author as LWT ([lang-learn-guy](https://sourceforge.net/u/lang-learn-guy/profile
 
 ## Unlicense
 
-Under unlicense, view [UNLICENSE.md](UNLICENSE.md), please look at [http://unlicense.org/].
+Under unlicense, view [LICENSE.md](LICENSE.md), please look at [http://unlicense.org/].
 
 **Let's learn new languages!**

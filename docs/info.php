@@ -234,7 +234,7 @@ require_once __DIR__ . '/../src/php/markdown_converter.php';
 
 			<?php echo markdown_integration(__DIR__ . "/restrictions.md"); ?>
 
-			<?php echo markdown_integration(__DIR__ . "/../UNLICENSE.md" ) ?>
+			<?php echo markdown_integration(__DIR__ . "/../LICENSE.md" ) ?>
 
 			<?php echo markdown_integration(__DIR__ . "/thirdpartylicenses.md" ) ?>
 			

@@ -381,7 +381,7 @@ function pagestart_kernel_nobody($title, $addcss=''): void
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <!-- 
-        <?php echo file_get_contents("UNLICENSE.md");?> 
+        <?php echo file_get_contents("LICENSE.md");?> 
     -->
     <meta name="viewport" content="width=900" />
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
