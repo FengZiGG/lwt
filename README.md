@@ -154,8 +154,8 @@ LWT is written for web, but you have many choices if you want a standalone insta
 * [FLTR ◆ Foreign Language Text Reader](https://sourceforge.net/projects/foreign-language-text-reader/), a Java clone, by the same
 author as LWT ([lang-learn-guy](https://sourceforge.net/u/lang-learn-guy/profile/))
 
-## Unlicense
+## MIT License
 
-Under unlicense, view [UNLICENSE.md](UNLICENSE.md), please look at [http://unlicense.org/].
+Under [MIT License](https://mit-license.org/), view [LICENSE.md](LICENSE.md) for the full license.
 
 **Let's learn new languages!**

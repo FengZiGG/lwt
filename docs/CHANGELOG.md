@@ -50,6 +50,7 @@ from 1.8.0 to 1.10.2. This brings some bug fixes.
   * '*' before a dictionary URL should be replaced by an argument 'lwt_popup=true'
   * 'ggl.php' and 'glosbe_api.php' should be updated (e. g. "{YOUR_LWT_CURRENT_ADDRESS}/ggl.php")
   * Marking the location of a term to translate with '###' is deprecated in favor of 'lwt_term'.
+* **LICENSE**: we changed from The Unlincense (Unlicense) to The MIT License (MIT). Please view [post]() for detailed information. 
 
 ### Fixed
 

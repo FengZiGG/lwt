@@ -84,7 +84,7 @@ require_once __DIR__ . '/../src/php/markdown_converter.php';
 			<a href="#newfeatures">New Features</a>
 			<a href="#screencasts">Screencasts</a>
 			<a href="#restrictions">Restrictions</a>
-			<a href="#UNLICENSE">(Un-) License</a>
+			<a href="#LICENSE">License</a>
 			<a href="#thirdpartylicenses">Third Party</a>
 			<a href="#install">Installation</a>
 			<a href="#learn">How to learn</a>
@@ -144,8 +144,8 @@ require_once __DIR__ . '/../src/php/markdown_converter.php';
 					<option value="restrictions">
 						Restrictions
 					</option>
-					<option value="UNLICENSE">
-						(Un-) License
+					<option value="LICENSE">
+						License
 					</option>
 					<option value="install">
 						Installation
@@ -234,7 +234,7 @@ require_once __DIR__ . '/../src/php/markdown_converter.php';
 
 			<?php echo markdown_integration(__DIR__ . "/restrictions.md"); ?>
 
-			<?php echo markdown_integration(__DIR__ . "/../UNLICENSE.md" ) ?>
+			<?php echo markdown_integration(__DIR__ . "/../LICENSE.md" ) ?>
 
 			<?php echo markdown_integration(__DIR__ . "/thirdpartylicenses.md" ) ?>
 			
